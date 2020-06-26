@@ -1,2 +1,3 @@
 Hello, git! 123
-it's new line
+it's new line.
+Add new more line
